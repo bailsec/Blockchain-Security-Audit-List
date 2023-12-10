@@ -18,6 +18,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Ackee Blockchain](https://ackeeblockchain.com/)                                     | [Link](https://ackeeblockchain.com/blog/list-of-our-public-audits/)
 | [Arbitrary Execution](https://www.arbitraryexecution.com/blog/)                      | [Link](https://github.com/arbitraryexecution/publications)
 | [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://www.arcadia.agency/auditReports)
+| [Bailsec](https://bailsec.io/)                                                       | [Link](https://github.com/bailsec/BailSec/tree/main)
 | [Beosin](https://beosin.com/)                                                        | [Link (Under Security Incident)](https://beosin.com/resources)
 | [Blaize](https://blaize.tech/security/)                                              | [Link](https://blaize.tech/clients/)
 | [BlockApex](https://blockapex.io)                                                    | [Link](https://blockapex.io/audit-reports/)   
